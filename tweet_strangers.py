@@ -1,3 +1,5 @@
+#Todo test and edit tweet to strangers
+
 from flask import Flask, render_template
 import tweepy, time, sys
 from time import sleep
