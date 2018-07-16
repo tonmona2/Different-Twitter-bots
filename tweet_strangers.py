@@ -33,10 +33,10 @@ except KeyError:
 
 
 try:
-    t_consumerkey = 'riL7Foi0oGciWqn7TXk85J52w'
-    t_secretkey = 'WiNgraANKLKGMlIkCLxfVTgadjVa98PHRlqKbAtJuXZ70YL2NH'
-    access_tokenkey = '911241676601085957-sEhMqniJnWsmfOD3Q2EHdPlGmnbAqUJ'
-    access_tokensecret = 'J2gpju7iV9ZCrlhNYM0G2RvEzgUCYkj01l6TiH4mYk9Fy'
+    t_consumerkey = ''
+    t_secretkey = ''
+    access_tokenkey = ''
+    access_tokensecret = ''
 except KeyError:
     print(
     "You need to set the environment variables: TW_CONSUMERKEY, TW_SECRETKEY, TW_ACCESS_TOKENKEY, TW_TOKENSECRET")
